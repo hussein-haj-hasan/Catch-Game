@@ -5,9 +5,8 @@ import { BrowserRouter } from "react-router-dom";
 import "./index.css";
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
-    {/* <BrowserRouter basename="/catch-game">
+    <BrowserRouter basename="/catch-game">
       <App />
-    </BrowserRouter> */}
-    <h1>hussein</h1>
+    </BrowserRouter>
   </React.StrictMode>
 );
