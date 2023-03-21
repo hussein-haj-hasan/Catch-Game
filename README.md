@@ -1,1 +1,1 @@
-# catch-game
+# catchgame
