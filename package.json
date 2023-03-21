@@ -2,7 +2,7 @@
   "name": "game",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://hussein-haj-hasan.github.io/catch-game/",
+  "homepage": "https://hussein-haj-hasan.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
