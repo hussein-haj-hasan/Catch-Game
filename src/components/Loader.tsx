@@ -41,6 +41,7 @@ const Loader = () => {
           cycleAnimation();
           console.log(animation);
         }}
+        style={{ cursor: "pointer" }}
       >
         change Animation
       </div>
