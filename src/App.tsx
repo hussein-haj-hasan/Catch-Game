@@ -23,7 +23,7 @@ function App() {
         setScore={setScore}
         setLevel={setLevel}
       />
-      <AnimatePresence
+      {/* <AnimatePresence
         mode="wait"
         onExitComplete={() => {
           setShowModal(false);
@@ -50,7 +50,7 @@ function App() {
           />
           <Route path="/" element={<Home />} />
         </Routes>
-      </AnimatePresence>
+      </AnimatePresence> */}
     </>
   );
 }
